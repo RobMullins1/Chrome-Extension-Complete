@@ -4,7 +4,7 @@ const options = {
   headers: {
     accept: 'application/json',
     revision: '2023-02-22',
-    Authorization: 'Klaviyo-API-Key pk_3edfd0d82c9ac29db8f2eec294b047e3ca'
+    Authorization: 'Klaviyo-API-Key your-private-api-key'
   }
 };
 
